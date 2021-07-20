@@ -23,6 +23,7 @@ namespace ContosoP.Controllers
             _logger = logger;
         }
 
+        //http://localhost:5000/weatherforecast
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {

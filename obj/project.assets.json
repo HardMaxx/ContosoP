@@ -199,9 +199,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tom\\Documents\\GitHub\\ContosoP\\ContosoP.csproj",
-      "projectName": "ContosoP",
-      "projectPath": "C:\\Users\\Tom\\Documents\\GitHub\\ContosoP\\ContosoP.csproj",
+      "projectUniqueName": "C:\\Users\\Tom\\Documents\\GitHub\\ContosoP\\ContosoPizza.csproj",
+      "projectName": "ContosoPizza",
+      "projectPath": "C:\\Users\\Tom\\Documents\\GitHub\\ContosoP\\ContosoPizza.csproj",
       "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Tom\\Documents\\GitHub\\ContosoP\\obj\\",
       "projectStyle": "PackageReference",
